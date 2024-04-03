@@ -1,0 +1,4 @@
+installing NodeJS via site
+
+Simple calculator for performing basic arthematics functions
+in electronJS
